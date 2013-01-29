@@ -1,0 +1,6 @@
+This category adds a set of new methods to NSString.
+
++ (NSString *)loremIpsum;
++ (NSString *)loremIpsumWithWords:(NSInteger)words;
++ (NSString *)loremIpsumWithSentences:(NSInteger)sentences;
++ (NSString *)loremIpsumWithParagraphs:(NSInteger)paragraphs;
